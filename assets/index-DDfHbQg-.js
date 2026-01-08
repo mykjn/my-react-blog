@@ -25,7 +25,8 @@ Please change the parent <Route path="${Q}"> to <Route path="${Q==="/"?"*":`${Q}
 \r
 **Exodus 4:1–5**\r
 \r
-Lately I've been thinking about the question God asked Moses:\r
+Lately I've been thinking about the question God asked Moses: \r
+\r
 *"What is that in your hand?"*\r
 \r
 Not a dramatic question. Not a complicated one. Just honest.\r
@@ -36,42 +37,86 @@ Moses was holding a staff, something ordinary, something he had every day withou
 \r
 I often look at what I have and think its not enough. Not enough talent. Not enough resources. Not enough faith. But Scripture keeps reminding me that God doesn't work based on how big things look to me.\r
 \r
-A boy once offered **five loaves and two fish**. It was small, almost insignificant compared to the need. But when Jesus received it, it became more than enough-enough to feed thousands, with leftovers to spare (John 6:9,12-13)\r
+A boy once offered **five loaves and two fish**. It was small, almost insignificant compared to the need. But when Jesus received it, it became more than enough-enough to feed thousands, with leftovers to spare (John 6:9,12-13).\r
 \r
-## The Heart of Giving\r
+A widow in **1 Kings 17** had only a little flour and oil, just enough for one last meal. Yet she trusted God, and what little she had never ran out.\r
 \r
-God does not measure giving the way humans do. He looks beyond the amount and examines the heart behind it.\r
+Even David stepped onto the battlefield withh nothing more than a sling. Not armor. Not a sword. Just what he already had. And God used it.\r
 \r
-In Mark 12:43–44, Jesus pointed out a poor widow who gave two small coins. While others gave large amounts, Jesus declared that she gave more than all the rest—because she gave out of her poverty, with a sincere and trusting heart.\r
+These stories remind me that God isn't waiting for me to become "more." He's waiting for me to trust Him with what's already in my hands.\r
 \r
-Proverbs 11:24 reminds us that generosity leads to abundance, while withholding leads to lack. God values the quality of our giving, not the quantity. When we give with love, faith, and obedience, God uses it for greater purposes.\r
+## Giving Reveals the Heart\r
+\r
+Jesus once watched people give at the temple. The rich gave much, but it was the widow with two small coins who caught His attention. *"She gave more,"* Jesus said. Not because of the amount, but because of her heart (Mark 12:43-44).\r
+\r
+That challenges me. God isn't impressed by numbers; He looks intention. He values sincerity over size. **Proverbs 11:24** says that generosity leads to abundance, and I'm learning that this abundance isn't always material. It's peace, trust, and closeness with God.\r
 \r
 ## The Heart of Obedience\r
 \r
-Obedience is another “ordinary” thing God uses in extraordinary ways. In Matthew 17:27, Jesus instructed Peter to catch a fish—and inside it was the exact provision needed. In Luke 5:5–7, Peter obeyed Jesus despite his experience as a fisherman, and his obedience resulted in an overwhelming catch.\r
+Obedience is another “ordinary” thing God uses in extraordinary ways. There are moments when obedience feels uncomfortable or illogical. Peter knew fishing, yet Jesus told him to cast the nets again after a very long night of failure. Peter obeyed, and the nets nearly broke from the catch (Luke 5:5-7).\r
 \r
-Giving, including tithes, is not merely a law—it is a principle of trust and obedience. God does not demand giving to burden us; He invites us to participate in His provision and love. After all, the greatest act of giving was God Himself giving His Son for us (John 3:16).\r
+Sometimes God asks me to obey before I understand. Giving, trusting, waiting. These aren't always easy. But obedience has a way of opening doors I didn't know existed.\r
 \r
-## Your Faith in Christ\r
+Giving, including tithes, isn't about obligation. It's about trust. God's greatest act of giving was giving Himself, **"For God so loved the world..."** (John 3:16).\r
 \r
-Finally, God uses our faith—even when it feels small. Jesus said that faith as small as a mustard seed can move mountains. Throughout the Gospels, we hear Jesus say, “Your faith has made you well.”\r
+## Even Small Faith Matters\r
 \r
-Faith does not need to be perfect; it needs to be present. Without faith, it is impossible to please God, but with even a small measure of faith placed in Christ, God can bring healing, restoration, and transformation—for His glory.\r
+Jesus said faith as small as a mustard seed is enough. That comforts me on days when my faith feels fragile. Again and again, Jesus told people, *"Your faith has made you well."*\r
 \r
-Surrender What Is in Your Hands\r
+Faith doesn't have to be loud or confident all the time. It just needs to be real. And God, in His grace, uses even small amount of faith for His Glory\r
 \r
-So today, God may be asking you the same question He asked Moses:\r
+## So I Ask Myself\r
 \r
-What is in your hands?\r
+What is in my hands right now?\r
 \r
-Your time, your resources, your talents, your obedience, your faith—none of it is too small. When surrendered to God, He multiplies it, uses it, and displays His glory through it.\r
+Whatever it is—my time, my resources, my obedience, my imperfect faith, I'm learning to place it before God. **Because what feels ordinary to me can become extraordinary in His hands.**\r
+`,My=`# The Power of Teamwork\r
 \r
-**What you hold may seem ordinary, but in God’s hands, it becomes extraordinary.**`,My=`# The Power of Teamwork\r
+**Acts 6:1-7**\r
 \r
-Teamwork is more than just collaboration - it's the backbone of any thriving church, ministy, music team, or family. The Bible reminds us that when people work together, combining their strengths, gifts, and hearts, incredible growth and impact happen.\r
+Today I was reminded that teamwork isn't just a ministry principle, it's a God principle.\r
 \r
-## Biblical Foundations of Teamwork\r
+Reading Acts 6:1-7, I noticed how the early church faced growth without letting one person carry everything. They shared responsibility and because of that, the Word of God continued to spread. Growth followed obedience, not burnout.\r
 \r
-**Acts 6:1-7** shows us how the early church handled growing responsibilities by appointing trusted individuals to serve. This example highlights the importance of teamwork in ministry-it allows the body of Christ to function smoothly and effectively.\r
+It made me pause and ask myself how often I try to do things alone.\r
 \r
-**1 Corinthians 12:4** teaches that every part of the body has a unique role. When all members cooperate, the ministry matures, grows, reaches its full potential. Similarly, **Ephesians 4:16** reminds us that development cannot happen without partnership and collaboration.`,u2=[{id:"what-is-in-your-hands",title:"What Is in Your Hands?",image:"/my-react-blog/images/what-is-in-your-hands.jpg",content:Dy},{id:"the-power-of-teamwork",title:"The Power of Teamwork",image:"/my-react-blog/images/the-power-of-teamwork.jpg",content:My}];function r2(){return I.jsxs("div",{className:"blog-container",children:[I.jsx("h1",{className:"fade-up delay-1",children:"Blog"}),I.jsx("div",{className:"blog-grid fade-up delay-2",children:u2.map(l=>I.jsx(sn,{to:`/blog/${l.id}`,className:"blog-card",style:{backgroundImage:`url(${l.image})`},children:I.jsx("div",{className:"blog-overlay",children:I.jsx("h2",{children:l.title})})},l.id))})]})}function o2(){return I.jsxs("div",{className:"page-container",children:[I.jsx("h1",{className:"fade-up",children:"About"}),I.jsxs("div",{className:"about-content",children:[I.jsxs("p",{className:"fade-up delay-1",children:["Most of the time, this starts the same way. I'm sitting in church, listening, when a line catches my heart and I think,  ",I.jsx("i",{children:"Amen... let me write that down."})]}),I.jsx("p",{className:"fade-up delay-2",children:"These are the notes I come back to. The ones I marked, underlined, rewrote, and kept thinking about long after the service ended. Some of them made sense right away. Some took time. Some are still unfolding."}),I.jsx("p",{className:"fade-up delay-2",children:"This space is my journal of those moments. Sermon notes rewritten slowly and honestly. Not to teach, not to explain everything, but to remember. To hold on to what spoke to me and let it keep working in my life."}),I.jsx("p",{className:"fade-up delay-2",children:"I'm still listening. Still learning. Still writing in the margins. And this space is simply where those pages live."}),I.jsx("p",{className:"about-signature fade-up delay-2",children:"-MJQ"})]})]})}function c2(){const[l,i]=Y.useState(!1),u=r=>{r.preventDefault();const s=r.target;fetch("https://formsubmit.co/ajax/quesada.mykiejan@gmail.com",{method:"POST",body:new FormData(s)}).then(f=>f.json()).then(f=>{console.log(f),i(!0),s.reset()}).catch(f=>{console.error(f),alert("Oops! Something went wrong.")})};return I.jsxs("div",{className:"page-container",children:[I.jsx("h1",{className:"fade-up",children:"Contact"}),I.jsxs("div",{className:"contact-content",children:[I.jsx("p",{className:"fade-up delay-1",children:"If something here resonated with you, or if you'd simply like to reach out, you're very much welcome to do so."}),l?I.jsx("div",{className:"contact-success fade-up delay-2",children:I.jsx("p",{children:"Thank you! Your message has been sent successfully."})}):I.jsxs("form",{className:"contact-form fade-up delay-2",onSubmit:u,children:[I.jsx("input",{type:"hidden",name:"_captcha",value:"false"}),I.jsx("input",{type:"hidden",name:"subject",value:"New message from your blog"}),I.jsx("input",{type:"text",name:"name",placeholder:"Your name",required:!0}),I.jsx("input",{type:"email",name:"email",placeholder:"Your email",required:!0}),I.jsx("textarea",{name:"message",rows:"5",placeholder:"Your message",required:!0}),I.jsx("button",{type:"submit",children:"Send message"})]})]})]})}function s2({post:l}){return l?I.jsxs("div",{className:"blog-container fade-up delay-1",children:[I.jsx(t2,{children:l.content}),I.jsx("p",{children:I.jsx(sn,{className:"blog-link",to:"/blog",children:"← Back to Blog"})})]}):I.jsx("p",{children:"Post not found"})}const Ny=[{id:"what-is-in-your-hands",title:"What Is in Your Hands?",content:Dy},{id:"the-power-of-teamwork",title:"The Power of Teamwork",content:My}];function f2(){return I.jsxs(C0,{basename:"/my-react-blog",children:[I.jsx(B0,{}),I.jsxs(n0,{children:[I.jsx(ba,{path:"/",element:I.jsx(j0,{})}),I.jsx(ba,{path:"/blog",element:I.jsx(r2,{})}),I.jsx(ba,{path:"/blog/:id",element:I.jsx(h2,{posts:Ny})}),I.jsx(ba,{path:"/about",element:I.jsx(o2,{})}),I.jsx(ba,{path:"/contact",element:I.jsx(c2,{})})]}),I.jsx(L0,{})]})}function h2(){const{id:l}=Yv(),i=Ny.find(u=>u.id===l);return I.jsx(s2,{post:i})}lv.createRoot(document.getElementById("root")).render(I.jsx(Y.StrictMode,{children:I.jsx(f2,{})}));
+Paul shares in **1 Corinthians 12:4** that we all carry different gifts. No one has everything. **Ephesians 4:16** reminds me that real growth only happens when every part works together. Without cooperation and partnership, there is no true development.\r
+\r
+\r
+## Teamwork Multiplies Strength\r
+\r
+In **Exodus 17:10-13**, Moses stood in prayer, but his strength faded. Victory came only when Aaron and Hur stood beside him and held his hands up.\r
+\r
+Even leaders get tired. Even prayer needs partnership.\r
+\r
+This reminds me that I need spiritual partners, people who will pray with me when my strength runs low.\r
+\r
+>"If one fails, the other can help him up." (Ecclesiastes 4:10)\r
+\r
+We were never meant to fight alone.\r
+\r
+\r
+## Teamwork Builds Relationship and Accountability\r
+\r
+Teamwork isn't just about getting things done, it's about building relationships (being a companion, sharing burdens, celebrating joys, and navigating life's challenges together).\r
+\r
+**1 Timothy 1:19** speaks about holding on to faith with a clear conscience. I'm realizing that this kind of faith is hard to sustain without accountability. In family, ministry and relationships, having someone who can speak truth, encouragement, and correction is a gift.\r
+\r
+\r
+## Teamwork Reflects the Heart of Christ\r
+\r
+Jesus Himslef modeled teamwork. In **Mark 6:7**, He sent His disciples out two by two. That detail feels intentional. Ministry was never meant to be done alone.\r
+\r
+There is humility in teamwork, admitting that we need each other, and allowing others to need us too. Ministry without teamwork becomes heavy, lonely, and disconnected from the heart of Jesus.\r
+\r
+**Thoughts**\r
+\r
+Tonight, I'm learning to value partnership. To welcome help. To trust that God works powerfully through people who choose to walk together.\r
+\r
+Teamwork multiplies strength.\r
+Teamwork builds accountability.\r
+Teamwork reflects the heart of Jesus.\r
+\r
+I don't have to do this alone. And I was never meant to.\r
+\r
+`,u2=[{id:"what-is-in-your-hands",title:"What Is in Your Hands?",image:"/my-react-blog/images/what-is-in-your-hands.jpg",content:Dy},{id:"the-power-of-teamwork",title:"The Power of Teamwork",image:"/my-react-blog/images/the-power-of-teamwork.jpg",content:My}];function r2(){return I.jsxs("div",{className:"blog-container",children:[I.jsx("h1",{className:"fade-up delay-1",children:"Blog"}),I.jsx("div",{className:"blog-grid fade-up delay-2",children:u2.map(l=>I.jsx(sn,{to:`/blog/${l.id}`,className:"blog-card",style:{backgroundImage:`url(${l.image})`},children:I.jsx("div",{className:"blog-overlay",children:I.jsx("h2",{children:l.title})})},l.id))})]})}function o2(){return I.jsxs("div",{className:"page-container",children:[I.jsx("h1",{className:"fade-up",children:"About"}),I.jsxs("div",{className:"about-content",children:[I.jsxs("p",{className:"fade-up delay-1",children:["Most of the time, this starts the same way. I'm sitting in church, listening, when a line catches my heart and I think,  ",I.jsx("i",{children:"Amen... let me write that down."})]}),I.jsx("p",{className:"fade-up delay-2",children:"These are the notes I come back to. The ones I marked, underlined, rewrote, and kept thinking about long after the service ended. Some of them made sense right away. Some took time. Some are still unfolding."}),I.jsx("p",{className:"fade-up delay-2",children:"This space is my journal of those moments. Sermon notes rewritten slowly and honestly. Not to teach, not to explain everything, but to remember. To hold on to what spoke to me and let it keep working in my life."}),I.jsx("p",{className:"fade-up delay-2",children:"I'm still listening. Still learning. Still writing in the margins. And this space is simply where those pages live."}),I.jsx("p",{className:"about-signature fade-up delay-2",children:"-MJQ"})]})]})}function c2(){const[l,i]=Y.useState(!1),u=r=>{r.preventDefault();const s=r.target;fetch("https://formsubmit.co/ajax/quesada.mykiejan@gmail.com",{method:"POST",body:new FormData(s)}).then(f=>f.json()).then(f=>{console.log(f),i(!0),s.reset()}).catch(f=>{console.error(f),alert("Oops! Something went wrong.")})};return I.jsxs("div",{className:"page-container",children:[I.jsx("h1",{className:"fade-up",children:"Contact"}),I.jsxs("div",{className:"contact-content",children:[I.jsx("p",{className:"fade-up delay-1",children:"If something here resonated with you, or if you'd simply like to reach out, you're very much welcome to do so."}),l?I.jsx("div",{className:"contact-success fade-up delay-2",children:I.jsx("p",{children:"Thank you! Your message has been sent successfully."})}):I.jsxs("form",{className:"contact-form fade-up delay-2",onSubmit:u,children:[I.jsx("input",{type:"hidden",name:"_captcha",value:"false"}),I.jsx("input",{type:"hidden",name:"subject",value:"New message from your blog"}),I.jsx("input",{type:"text",name:"name",placeholder:"Your name",required:!0}),I.jsx("input",{type:"email",name:"email",placeholder:"Your email",required:!0}),I.jsx("textarea",{name:"message",rows:"5",placeholder:"Your message",required:!0}),I.jsx("button",{type:"submit",children:"Send message"})]})]})]})}function s2({post:l}){return l?I.jsxs("div",{className:"blog-container fade-up delay-1",children:[I.jsx(t2,{children:l.content}),I.jsx("p",{children:I.jsx(sn,{className:"blog-link",to:"/blog",children:"← Back to Blog"})})]}):I.jsx("p",{children:"Post not found"})}const Ny=[{id:"what-is-in-your-hands",title:"What Is in Your Hands?",content:Dy},{id:"the-power-of-teamwork",title:"The Power of Teamwork",content:My}];function f2(){return I.jsxs(C0,{basename:"/my-react-blog",children:[I.jsx(B0,{}),I.jsxs(n0,{children:[I.jsx(ba,{path:"/",element:I.jsx(j0,{})}),I.jsx(ba,{path:"/blog",element:I.jsx(r2,{})}),I.jsx(ba,{path:"/blog/:id",element:I.jsx(h2,{posts:Ny})}),I.jsx(ba,{path:"/about",element:I.jsx(o2,{})}),I.jsx(ba,{path:"/contact",element:I.jsx(c2,{})})]}),I.jsx(L0,{})]})}function h2(){const{id:l}=Yv(),i=Ny.find(u=>u.id===l);return I.jsx(s2,{post:i})}lv.createRoot(document.getElementById("root")).render(I.jsx(Y.StrictMode,{children:I.jsx(f2,{})}));
