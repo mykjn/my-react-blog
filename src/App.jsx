@@ -1,16 +1,45 @@
+import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import ScrollToTop from "./components/ScrollToTop";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
+import Home from "./pages/Home";
+import Blog from "./pages/Blog";
+import About from "./pages/About";
+import Contact from "./pages/Contact";
+import Post from "./pages/Post";
+import post1 from "./posts/what-is-in-your-hands.md?raw";
+import post2 from "./posts/the-power-of-teamwork.md?raw";
+
+const posts = [
+  { id: "what-is-in-your-hands", title: "What Is in Your Hands?", content: post1 },
+  { id: "the-power-of-teamwork", title: "The Power of Teamwork", content: post2 },
+];
+
 function App() {
   return (
-    <div style={{ padding: "40px", fontFamily: "Arial" }}>
-      <h1>My Blog</h1>
+    <Router basename="/my-react-blog">
+      <ScrollToTop />
+
+      <Header />
+
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/blog" element={<Blog />} />
+        <Route path="/blog/:id" element={<PostWrapper posts={posts} />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/contact" element={<Contact />} />
+      </Routes>
       
-      <article>
-        <h2>What Is In Your Hands?</h2>
-        <p>
-          God uses simple things for powerful outcomes. No matter how small your resources are, God can use them.
-        </p>
-      </article>
-    </div>
+      <Footer />
+    </Router>
   );
+}
+
+import { useParams } from "react-router-dom";
+function PostWrapper() {
+  const { id } = useParams();
+  const post = posts.find(p => p.id === id);
+  return <Post post={post} />;
 }
 
 export default App;
